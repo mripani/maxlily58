@@ -1,0 +1,1 @@
+Modifications are done using [Keymap Editor](https://nickcoutsos.github.io/keymap-editor/) which is a visual ZMK editor. Because I'm a begginer using the Lily58 I'm writing so slow, but practice makes the master!
