@@ -42,10 +42,10 @@
 
             display-name = "Lower";
             bindings = <
-&trans  &kp EXCL  &kp AT  &kp HASH  &kp DOLLAR  &kp PERCENT                                     &kp CARET  &kp AMPS  &kp ASTERISK  &kp QUESTION  &kp TILDE  &kp SINGLE_QUOTE
-&trans  &trans    &trans  &trans    &trans      &trans                                          &trans     &trans    &trans        &trans        &trans     &trans
-&trans  &trans    &trans  &trans    &trans      &trans                                          &trans     &trans    &trans        &trans        &trans     &trans
-&trans  &trans    &trans  &trans    &trans      &trans       &kp LEFT_BRACE    &kp RIGHT_BRACE  &trans     &trans    &trans        &trans        &trans     &trans
+&trans  &kp EXCL  &kp AT  &kp HASH  &kp DOLLAR  &kp PERCENT                                     &kp CARET  &kp AMPS  &kp ASTERISK  &kp QUESTION  &kp TILDE      &kp SINGLE_QUOTE
+&trans  &trans    &trans  &trans    &trans      &trans                                          &trans     &trans    &trans        &trans        &trans         &trans
+&trans  &trans    &trans  &trans    &trans      &trans                                          &trans     &trans    &trans        &trans        &trans         &trans
+&trans  &trans    &trans  &trans    &trans      &trans       &kp LEFT_BRACE    &kp RIGHT_BRACE  &trans     &trans    &trans        &trans        &kp BACKSLASH  &trans
                           &trans    &trans      &trans       &trans            &trans           &trans     &trans    &trans
             >;
 
